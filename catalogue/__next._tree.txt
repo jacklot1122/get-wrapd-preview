@@ -1,3 +1,3 @@
 :HL["/get-wrapd-preview/_next/static/chunks/0sf_o72izpm53.css","style"]
 :HL["/get-wrapd-preview/brand-logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"catalogue","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"kzYJ1z_Gu3wk2gFxZDFKW"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"catalogue","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"eSZgvlI1NoZ2PwCMuVC8v"}
